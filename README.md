@@ -2,8 +2,8 @@
 
 - I am a third year B.Tech in Mechanical Engineering Student at National Institute of Technology Karnataka, Surathkal.
 - I am interested in various aspects of Robotics and Machine Learning, including but not limited to ROS, motion planning, control systems, perception and sensing, signal processing, reinforcement learning, etc.
-- 🔭 I’m currently working on using ROS and python to control different kinds robotic systems for a multitude of applications.
-- 📫 You can reach me @ shobujpaul@hotmail.com
+- 🔭 I’m currently working on using ROS and Deep Learning to control different kinds robotic systems, primarily aerial robots, for a multitude of applications.
+- 📫 You can reach me @ shobujpaul@ieee.org
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
