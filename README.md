@@ -10,6 +10,3 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
-<!-- [![Shobuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shobuj-Paul)](https://github.com/Shobuj-Paul/github-readme-stats) -->
-![Shobuj's GitHub stats](https://github-readme-stats-zeta-bice.vercel.app/api?username=Shobuj-Paul&show_icons=true&theme=radical&count_private=true)
