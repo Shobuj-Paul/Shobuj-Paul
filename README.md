@@ -5,7 +5,7 @@
 - 🌱 Currently I am interested in and exploring Open Source robotics and new ROS 2 technologies.
 - 🔭 I have worked on communication, control and formations in multi-agent UAV systems during my stint as a research intern at IISc, Bangalore.
 - 👯 Reach out to me if you're looking to collaborate on any cool Open Source projects.
-- 📫 You can reach me @ shobujpaul@hotmail.com
+- 📫 You can reach me @ shobuj.paul@gmail.com
 <!-- 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
